@@ -8,5 +8,3 @@ export default (posts = [], action) => {
             return posts;
     }
 }
-
-//Nothing much

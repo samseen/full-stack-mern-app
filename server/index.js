@@ -16,7 +16,8 @@ app.use('/posts', postRoutes);
 
 // https://www.mongodb.com/cloud/atlas
 
-const CONNECTION_URL = 'mongodb+srv://samseen:LvlXPZdQ3Oyopvhr@sandbox.c839b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+// const CONNECTION_URL = 'mongodb+srv://samseen:LvlXPZdQ3Oyopvhr@sandbox.c839b.mongodb.net/test?retryWrites=true&w=majority';
+const CONNECTION_URL = 'mongodb+srv://js_mastery:123123123@practice.jto9p.mongodb.net/test';
 
 const PORT = process.env.PORT || 5000;
 
